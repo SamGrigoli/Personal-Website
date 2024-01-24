@@ -1,0 +1,32 @@
+.airplane{
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+}
+h1{
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    color: #0571d3
+}
+.divide{
+    color: #0CC0DF
+}
+#title{
+    background-color: #0CC0DF;
+    width: 100vw;
+}
+h3{
+    color: #0571d3;
+    font-family: 'Rajdhani', sans-serif;
+}
+.list{
+    text-align: center;
+}
+
+#Footer{
+    background-color: #0ebad8;
+}
+
+#picture{
+    border-radius: 50%;
+}
